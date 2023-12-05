@@ -1,0 +1,2 @@
+# curet.dev
+starting project
